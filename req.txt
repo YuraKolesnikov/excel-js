@@ -1,0 +1,7 @@
+- Webpack
+  * Babel
+  * SCSS
+  * ESLint
+  * dev/prod modes
+
+Git
