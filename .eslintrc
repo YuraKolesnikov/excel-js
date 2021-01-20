@@ -12,7 +12,9 @@
     "semi": "off",
     "object-curly-spacing": ["warn", "always"],
     "comma-dangle": "off",
-    "quotes": ["warn", "single"]
+    "quotes": ["warn", "single"],
+    "require-jsdoc": "off",
+    "operator-linebreak": "off"
   },
   "extends": [
     "eslint:recommended",
